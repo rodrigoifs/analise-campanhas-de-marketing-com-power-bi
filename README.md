@@ -61,4 +61,4 @@ Com esses indicadores, a diretoria pode personalizar anúncios específicos para
 
 Abaixo está o registro visual da página principal desenvolvida:
 
-![Visão Cliente - Dashboard de Marketing]( https://raw.githubusercontent.com/rodrigoifs/analise-campanhas-de-marketing-com-power-bi/refs/heads/main/Imagens/dashboard-analise-campanhas-de-marketing-visao-cliente.png)
+![Visão Cliente - Dashboard de Marketing]( https://raw.githubusercontent.com/rodrigoifs/analise-campanhas-de-marketing-com-power-bi/refs/heads/main/imagens/dashboard-analise-campanhas-de-marketing-visao-cliente.png)
